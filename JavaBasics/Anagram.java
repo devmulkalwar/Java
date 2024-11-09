@@ -14,7 +14,7 @@ public class Anagram {
             String result1 = sortAlphabetically( str1);
             String result2 = sortAlphabetically( str2);
             if (result1.equals(result2)){
-                System.out.println("Strings are anangram");
+                System.out.println("Strings are anagram");
             }
             else {
                 System.out.println("Strings are not anagram");
